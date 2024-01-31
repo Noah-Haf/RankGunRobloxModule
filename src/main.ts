@@ -55,7 +55,7 @@ export class Bot {
 			warn("UserId must be number");
 			return { status_code: 400, detail: "UserId must be number" };
 		}
-		return URLGenerator("roblox/demote", "POST", this, {
+		return URLGenerator("roblox/promote", "POST", this, {
 			workspace_id: this.WorkspaceId,
 			user_id: userId,
 		});

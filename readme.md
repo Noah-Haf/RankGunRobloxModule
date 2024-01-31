@@ -4,6 +4,10 @@
 
 This is the rankgun module designed to work with Roblox made using [rojo](https://rojo.space/) and [roblox-ts](https://roblox-ts.com/docs/quick-start).
 
+## Usage
+
+Rankgun docs: https://docs.rankgun.works/docs/module
+
 ## Contributions
 
 Feel free to open a pull-request, we're happy to expand and improve! 💖
