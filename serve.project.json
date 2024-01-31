@@ -1,0 +1,11 @@
+{
+	"name": "RankGunAppCentre",
+	"tree": {
+		"$className": "DataModel",
+		"ServerScriptService": {
+			"MainModule": {
+				"$path": "build.project.json"
+			}
+		}
+	}
+}
