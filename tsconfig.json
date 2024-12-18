@@ -14,7 +14,7 @@
 		"moduleDetection": "force",
 		"strict": true,
 		"target": "ESNext",
-		"typeRoots": ["node_modules/@rbxts"],
+		"typeRoots": ["node_modules/@rbxts", "node_modules/@hey-api"],
 		"rootDir": "src",
 		"outDir": "out",
 		"baseUrl": "src",
