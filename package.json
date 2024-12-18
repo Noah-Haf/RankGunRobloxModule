@@ -1,5 +1,5 @@
 {
-  "name": "@rbxts/rankgun",
+  "name": "rankgun",
   "version": "3.0.0",
   "description": "RankGun Package",
   "main": "index.ts",
