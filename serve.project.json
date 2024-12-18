@@ -4,7 +4,7 @@
 		"$className": "DataModel",
 		"ServerScriptService": {
 			"MainModule": {
-				"$path": "build.project.json"
+				"$path": "default.project.json"
 			}
 		}
 	}
