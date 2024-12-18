@@ -6,7 +6,7 @@ This is the rankgun module designed to work with Roblox made using [rojo](https:
 
 ## Usage
 
-Read more on the [Rankgun docs](https://docs.rankgun.works/docs/module).
+Read more on the [Rankgun docs](https://docs.rankgun.works/).
 
 ## Contributions
 
