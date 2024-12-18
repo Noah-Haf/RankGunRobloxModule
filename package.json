@@ -3,6 +3,9 @@
   "version": "3.0.0",
   "description": "RankGun Package",
   "main": "index.ts",
+  "publishConfig": {
+    "access": "public"
+  },
   "scripts": {
     "build": "rbxtsc",
     "watch": "rbxtsc -w",
