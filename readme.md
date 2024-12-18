@@ -30,3 +30,5 @@ Feel free to open a pull-request, we're happy to expand and improve! 💖
 6. Ensure rojo plugin is installed to Roblox Studio:  ``rojo plugin install``
 7. Serve: ``rojo serve serve.project.json``
 8. Connect via plugin in roblox studio.
+
+Can upload to Roblox: ``rojo upload --asset_id 15764237093 ``.
