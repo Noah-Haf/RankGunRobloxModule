@@ -31,4 +31,4 @@ Feel free to open a pull-request, we're happy to expand and improve! 💖
 7. Serve: ``rojo serve serve.project.json``
 8. Connect via plugin in roblox studio.
 
-Can upload to Roblox: ``rojo upload --asset_id 15764237093 ``.
+Can upload to Roblox: ``rojo upload --asset_id 85490101758086 ``.
