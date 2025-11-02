@@ -48,7 +48,7 @@ function Request(
 	return DecodedBody;
 }
 
-export class Client {
+export class Bot {
 	/**RankGun Client**/
 
 	workspace_id: string;
